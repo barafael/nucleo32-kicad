@@ -1,11 +1,11 @@
 EESchema-LIBRARY Version 2.4
 #encoding utf-8
 #
-# NUCLEO-32
+# nucleo32
 #
-DEF NUCLEO-32 A 0 40 Y Y 2 L N
+DEF nucleo32 A 0 40 Y Y 2 L N
 F0 "A" -25 725 50 H V L BNN
-F1 "NUCLEO-32" -225 -850 50 H V L BNN
+F1 "nucleo32" -225 -850 50 H V L BNN
 F2 "MODULE_NUCLEO-32" -400 825 50 H I L BNN
 F3 "" 0 0 50 H I L BNN
 F4 "ST Microelectronics" -375 925 50 H I L BNN "MANUFACTURER"
